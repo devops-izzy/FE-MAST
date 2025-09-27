@@ -7,3 +7,4 @@ do
 	sleep 2
 	counter=`expr $counter + 1`
 done
+#echo
